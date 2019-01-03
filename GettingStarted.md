@@ -74,3 +74,20 @@ The notebook is for yourself, but you can bring it to the meeting to discuss pro
 Decide on where you are going to track of all your tasks. This can be on Github (via issues or projects), Todoist, Trello, or a paper planner. Make a habit of creating tasks for yourself, such that each task can be completed in a few hours. This means the task has to have a verb, and have a definition of "complete". For example, "Summarize 5 papers on topic X". 
 
 If a todo comes up for you during the meeting, capture it straight away - either in your system, or write it on paper and add it to your system later. Show your setup to me in the next weekly meeting. 
+
+# Acknowledgments
+
+This guide and the information in it is inspired by several researchers who have shared their lab guides or other resources online:
+
+* Kirstie Whitaker https://github.com/WhitakerLab/Onboarding
+* Yehia Elkhatib http://www.comp.lancs.ac.uk/~elkhatib/students.php
+* Michael Ekstrand https://md.ekstrandom.net/students/skills
+* John Paul Minda https://osf.io/8b6kj/
+* Jen Heemstra https://docs.google.com/document/d/1a8ecjUWVbXR1JqgbzqRwKmqaNK2cvBsysNFVXk56Lpo/edit
+* Gina Baucom https://baucomlab.wordpress.com/portfolio/lab-guide/ 
+* Jonathan Peelle https://github.com/jpeelle/peellelab_manual/
+* Kay M. Tye https://tyelab.mit.edu/philosophy/
+* Wilson Sayres http://www.sexchrlab.org/lab/ 
+* Stacey Smith https://www.colorado.edu/smithlab/all-about-expectations
+* Steve Ramirez http://theramirezgroup.org/ 
+* April Wright https://paleantology.com/home/about/ 
