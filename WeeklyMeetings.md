@@ -5,6 +5,13 @@ Copy/paste and fill in the template below each week, BEFORE coming to the weekly
 ## Template
 ### Date: 24-09-2018
 
+#### Who helped you this week?
+* Replace this text with a bullet point list of who helped you
+
+
+#### Who did you help this week?
+* Replace this text with a bullet point list of who you helped
+
 
 #### What did you achieve?
 
