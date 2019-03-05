@@ -1,16 +1,16 @@
 ### Date: 05-03-2019
 #### Who helped you this week?
--Andrey set up my computer
+- Andrey set up my computer
 #### Who did you help this week?
--pass
+- pass
 #### What did you achieve?
--completed week1 of the online course (10/10)   -found alot of literature for CHAOS     -read and 'summerized' 5 evauluation papers
+- completed week1 of the online course (10/10)   -found alot of literature for CHAOS     -read and 'summerized' 5 evauluation papers
 #### What did you struggle with?
 - write long summeries, they where mostly just a few sentences
 #### What would you like to work on next week?
--complete week2 of online course (4h)   -make overview of CHAOS for the boys (3h)    -read and summerize 2 more evaluation papers (3h)
+- complete week2 of online course (4h)   -make overview of CHAOS for the boys (3h)    -read and summerize 2 more evaluation papers (3h)
 #### Where do you need help from Veronika?
--summary tips? (15min)
+- summary tips? (15min)
 #### Any other topics
 - I will be away 7&8 and 14&15 March, first one is holiday, second one is careertrip of studyassociation to Groningen
 
