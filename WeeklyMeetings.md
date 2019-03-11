@@ -1,3 +1,43 @@
+### Date: 11-03-2019
+
+#### Who helped you this week?
+* Colin reported my progress at the Thursday meeting I could not attend
+* Tom told me what was discussed during that same meeting
+
+
+#### Who did you help this week?
+* Tom, putting his (and mine) desk higher so we will not get RSI
+
+
+#### What did you achieve?
+
+* I finished week2 of the online statistics course on likelihood and baysian statistics 10/10
+* I finished scanning/reading 23 articles on machine learning for abdominal organ segmentation for CHAOS and made an overview of those
+
+#### What did you struggle with?
+
+* Keep a critical point of view while reading a lot of comparible literature in a short amount of time.
+
+#### What would you like to work on next week?
+
+* Statistics course week3 (4h)
+* Read on algorithm evaluations (12h)
+* Formulate a concrete idea what I will do during my project and how to get there (8h)
+
+#### Where do you need help from Veronika?
+
+* Discussing how I can make my project more concrete
+
+#### Any other topics
+
+* I will not be present March 14&15 and 21
+* I should start reserving more time for studying for my exams (April 11 and 15)
+
+#### What are the agreements after this weekly meeting?
+
+* TBA
+
+
 ### Date: 05-03-2019
 #### Who helped you this week?
 - Andrey set up my computer
