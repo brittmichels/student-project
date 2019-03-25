@@ -1,3 +1,40 @@
+### Date: 25-03-2019
+
+#### Who helped you this week?
+* Tom coorganising comunity day
+
+
+#### Who did you help this week?
+* -
+
+
+#### What did you achieve?
+
+* Finished coursera week 3 (80/100).
+* Started a deep learning networks overview/summary.
+* Found interesting DL brain diagnosis papers, based on title and abstract, do have to read all of them (16).
+
+#### What did you struggle with?
+
+* -
+
+#### What would you like to work on next week?
+
+* Coursera week 4
+* Finishing network summary
+* Read + Summarise 6 brain diagnosis papers
+* Study for exams
+
+#### Where do you need help from Veronika?
+
+* -
+
+#### Any other topics
+
+* -
+
+#### What are the agreements after this weekly meeting?
+
 ### Date: 11-03-2019
 
 #### Who helped you this week?
